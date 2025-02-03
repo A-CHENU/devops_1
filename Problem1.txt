@@ -1,0 +1,12 @@
+Write query method to find the employees with given location
+to find the employees whose salary is between 50000 to 100000
+to find the employees who is working as java developer
+to update an employ name is working as dotnet developer
+to update the salary by 15% for every employee and print details
+to find no.of months each employed worked
+to delete employ who completed 2 years
+
+
+
+
+
